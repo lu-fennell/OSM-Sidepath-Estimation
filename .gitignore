@@ -1,0 +1,7 @@
+/.env
+/osmfiles/
+
+
+# Added by cargo
+
+/target
